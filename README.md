@@ -9,7 +9,7 @@
 
 2. copy the deepin folder into your ~/.themes or ~/.local/share/themes folder 
 
-3. Open libreoffice writer and click on options , go to general -> view and select your icon style  , which should be named as office 
+3. Open libreoffice writer and click on options , go to general -> view and select your icon style  , which should be named as office2013
 
   and look like this : 
 
