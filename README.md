@@ -16,4 +16,4 @@
   <img src = libr.png> 
 
 4. Copy the libree.desktop to ~/.local/share/applications, it will just open libreoffice writer* with the deepin light gtk theme .
-lol???
+
